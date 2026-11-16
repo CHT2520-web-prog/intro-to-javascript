@@ -18,7 +18,7 @@ git clone https://github.com/CHT2520-web-prog/javascript
 - Refresh the page in the browser, right-click on the page and open the developer tools. You should see a `console.log` message saying 'Ready to do some JavaScript'. 
 - Find the line of code in _app.js_ that is generating this message. It's inside the function `init()` which is called as soon as the JavaScript file has loaded.
 
-### Working with Data
+## Working with Data
 - Have a look at the top of the _app.js_. Note the two arrays of JavaScript objects, `filmsFrom2000s` and `filmsFrom2010s`.
 - Inside the `init()` function, immediately after the first `console.log` message add code to display information about the first object in the `filmsFrom2000s` array:
 
